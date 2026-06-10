@@ -64,3 +64,6 @@ function process(value: string | number | boolean): string | number | boolean {
 console.log(process("hello"));    // Output: HELLO
 console.log(process(25));         // Output: 50
 console.log(process(true));       // Output: false
+
+
+let str1:string = "Typescript";
